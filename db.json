@@ -1,0 +1,94 @@
+{
+  "Projects": [
+    {
+      "Project": {
+        "PID": 13,
+        "ProjectType": "Safety | Maintenance | Roadside",
+        "BeginConstructionDate": "2020-05-02",
+        "EndConstructionDate": "2020-07-30",
+        "BeginConstructionSeason": "Spring 2021",
+        "EndConstructionSeason": "Winter 2021",
+        "Status": "Progress",
+        "CommittedCost": 1500000,
+        "Description": "Road pavement",
+        "MainCounty": "Ashland",
+        "SurroundingCounties": "Huron, Wayne",
+        "OdotDistrict": 3,
+        "ProjectName": "Project Name 1",
+        "Location": "LOR 0020"
+      }
+    },
+    {
+      "Project": {
+        "PID": 14,
+        "ProjectType": "Maintenance | Safety",
+        "BeginConstructionDate": "2019-10-01",
+        "EndConstructionDate": "2020-08-18",
+        "BeginConstructionSeason": "Summer 2020",
+        "EndConstructionSeason": "Summer 2021",
+        "Status": "Progress",
+        "CommittedCost": 1500000,
+        "Description": "Road pavement",
+        "MainCounty": "Crawford",
+        "SurroundingCounties": "Huron, Wayne",
+        "OdotDistrict": 3,
+        "ProjectName": "Project Name 2",
+        "Location": "CRA 19"
+      }
+    },
+    {
+      "Project": {
+        "PID": 15,
+        "ProjectType": "Roadside",
+        "BeginConstructionDate": "2019-08-01",
+        "EndConstructionDate": "2019-11-01",
+        "BeginConstructionSeason": "Spring 2020",
+        "EndConstructionSeason": "Autumn 2020",
+        "Status": "Progress",
+        "CommittedCost": 1500000,
+        "Description": "Road pavement",
+        "MainCounty": "Erie",
+        "SurroundingCounties": "Huron, Wayne",
+        "OdotDistrict": 3,
+        "ProjectName": "Project Name 3",
+        "Location": "Various"
+      }
+    },
+    {
+      "Project": {
+        "PID": 17,
+        "ProjectType": "Roadside | Median Improvement (Safety)",
+        "BeginConstructionDate": "2021-10-01",
+        "EndConstructionDate": "2021-12-01",
+        "BeginConstructionSeason": "Summer 2025",
+        "EndConstructionSeason": "Autumn 2027",
+        "Status": "Progress",
+        "CommittedCost": 147221.00,
+        "Description": "Highway LightingLOR 0020 & SR301, LOR 0010 & SR83, LOR 0020 & Grafton Rd, LOR 0020 & SR57",
+        "MainCounty": "Lorain",
+        "SurroundingCounties": "Huron, Wayne",
+        "OdotDistrict": 3,
+        "ProjectName": "Project Name 5",
+        "Location": "0.90 miles, US 250"
+      }
+    },
+    {
+      "Project": {
+        "PID": 18,
+        "ProjectType": "Roadside",
+        "BeginConstructionDate": "2022-10-01",
+        "EndConstructionDate": "2022-12-01",
+        "BeginConstructionSeason": "Fall 2025",
+        "EndConstructionSeason": "Winter 2027",
+        "Status": "In Development",
+        "CommittedCost": 7500000,
+        "Description": "Road pavement",
+        "MainCounty": "Huron",
+        "SurroundingCounties": "Wayne, Lorain",
+        "OdotDistrict": 3,
+        "ProjectName": "Project Name 6",
+        "Location": "E"
+      }
+    }
+  ]
+}
