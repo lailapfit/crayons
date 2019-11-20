@@ -26,7 +26,7 @@
         "CommittedCost": 1500000,
         "Description": "Road pavement",
         "MainCounty": "Crawford",
-        "SurroundingCounties": "Huron, Wayne",
+        "SurroundingCounties": "Huron | Wayne",
         "OdotDistrict": 3,
         "ProjectName": "Project Name 2",
         "Location": "CRA 19"
@@ -42,7 +42,7 @@
         "CommittedCost": 1500000,
         "Description": "Road pavement",
         "MainCounty": "Erie",
-        "SurroundingCounties": "Huron, Wayne",
+        "SurroundingCounties": "Huron | Wayne",
         "OdotDistrict": 3,
         "ProjectName": "Project Name 3",
         "Location": "Various"
@@ -58,7 +58,7 @@
         "CommittedCost": 147221.00,
         "Description": "Highway LightingLOR 0020 & SR301, LOR 0010 & SR83, LOR 0020 & Grafton Rd, LOR 0020 & SR57",
         "MainCounty": "Lorain",
-        "SurroundingCounties": "Huron, Wayne",
+        "SurroundingCounties": "Huron | Wayne",
         "OdotDistrict": 3,
         "ProjectName": "Project Name 5",
         "Location": "0.90 miles, US 250"
@@ -74,7 +74,7 @@
         "CommittedCost": 7500000,
         "Description": "Road pavement",
         "MainCounty": "Huron",
-        "SurroundingCounties": "Wayne, Lorain",
+        "SurroundingCounties": "Wayne | Lorain",
         "OdotDistrict": 3,
         "ProjectName": "Project Name 6",
         "Location": "E"
