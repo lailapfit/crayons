@@ -1,37 +1,36 @@
-[
+[{
+        "id": 13,
+        "color": "Green",
+        "length": 2020,
+        "brand": "Fisher",
+        "publishedDate": "Jan 03, 2020, 09:23:24 PM EST"
+    },
     {
-	    "id": 13,
-	    "color": "Green",
-	    "length": 2020,
-	    "brand": "Fisher",
-	    "publishedDate": "Jan 03, 2020, 09:23:24 PM EST"
-    }, 
+        "id": 14,
+        "color": "Pink",
+        "length": 21909,
+        "brand": "Crayola",
+        "publishedDate": "Feb 03, 2020, 09:23:24 PM EST"
+    },
     {
-	    "id": 14,
-	    "color": "Pink",
-	    "length": 21909,
-	    "brand": "Crayola",
-	    "publishedDate": "Feb 03, 2020, 09:23:24 PM EST"
-    }, 
+        "id": 15,
+        "color": "Blue",
+        "length": 20230,
+        "brand": "BIC",
+        "publishedDate": "Mar 03, 2020, 09:23:24 PM EST"
+    },
     {
-	    "id": 15,
-	    "color": "Blue",
-	    "length": 20230,
-	    "brand": "BIC",
-	    "publishedDate": "Mar 03, 2020, 09:23:24 PM EST"
-    }, 
+        "id": 16,
+        "color": "Black",
+        "length": 2011,
+        "brand": "Off-brand",
+        "publishedDate": "Apr 03, 2020, 09:23:24 PM EST"
+    },
     {
-	    "id": 16,
-	    "color": "Black",
-	    "length": 2011,
-	    "brand": "Off-brand",
-	    "publishedDate": "Apr 03, 2020, 09:23:24 PM EST"
-    }, 
-    {
-	    "id": 17,
-	    "color": "Yellow",
-	    "length": 342020,
-	    "brand": "Marker",
-	    "publishedDate": "Apr 18, 2020, 09:23:24 PM EST"
+        "id": 17,
+        "color": "Yellow",
+        "length": 342020,
+        "brand": "Marker",
+        "publishedDate": "Apr 18, 2020, 09:23:24 PM EST"
     }
 ]
